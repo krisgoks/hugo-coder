@@ -1,5 +1,5 @@
 baseURL = "http://www.example.com"
-title = "johndoe"
+title = "Krishna Gokhale"
 
 theme = "hugo-coder"
 
@@ -21,7 +21,7 @@ disqusShortname = "yourdiscussshortname"
     info = "Full Stack Dev and Data Scientist"
     avatarURL = "images/avatar.jpg"
     #gravatar = "john.doe@example.com"
-    footerContent = "Enter a text here."
+    footerContent = "Welcome, to my site!"
 
     dateFormat = "January 2, 2006"
 
@@ -98,17 +98,16 @@ disqusShortname = "yourdiscussshortname"
     weight = 4
     url = "https://www.linkedin.com/in/krishna-gokhale-260b9830/"
 [[params.social]]
-    name = "Medium"
-    icon = "fa fa-medium"
+    name = "Google Scholar"
+    icon = "fa fa-graduation-cap"
     weight = 5
-    url = "https://medium.com/@johndoe"
+    url = "https://scholar.google.com/citations?user=_baHgTAAAAAJ&hl=en"
 [[params.social]]
-    name = "RSS"
-    icon = "fa fa-rss"
+    name = "Uni"
+    icon = "fa fa-university"
     weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
+    url = "https://www.birmingham.ac.uk/staff/profiles/applied-health/gokhale-krishna.aspx"
+    
 
 
 [languages]
