@@ -3,4 +3,4 @@ slug = "about"
 title = "About"
 
 +++
-This is experimental site 
+This is an experimental site. demoing righty now
