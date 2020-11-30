@@ -1,6 +1,8 @@
 +++
-title = "Contact"
 slug = "contact"
-+++
+title = "Contact"
 
-Follow me, @johndoe.
++++
+Follow me,   
+  
+[KrishnaGokhale](https://twitter.com/KrishnaGokhale "KrishnaGokhale")
